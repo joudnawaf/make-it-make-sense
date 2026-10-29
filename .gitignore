@@ -1,0 +1,13 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Generated repair files
+*_repaired.csv
+*_repair_report.csv
