@@ -2,6 +2,7 @@
 
 A Python-based CSV data quality checker that identifies common data issues and helps repair inconsistent CSV structures.
 
+
 ## Features
 
 - **CSV structure validation:** Detects rows with missing or extra fields.
@@ -13,6 +14,9 @@ A Python-based CSV data quality checker that identifies common data issues and h
 - **Quality summaries:** Reports detected issues in a readable format.
 - **Automated tests:** Uses Python's `unittest` framework to test functionality.
 
+## Demo
+
+![Make It Make Sense running in the terminal](project-demo.png)
 ## Tech Stack
 
 - Python
